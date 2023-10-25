@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif Tasnim Chowdhury</h1>
 <h3 align="center">Dedicatated To Be A Good Programmer & Love To Work With Team Project</h3><br><br><br>
 
-<img align="right" alt="codding" width="400" src="https://github.com/Saif-Tasnim/Saif-tasnim/blob/main/Developer.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-tasnim&label=Profile%20views&color=0e75b6&style=flat" alt="saif-tasnim" /> </p>
 
